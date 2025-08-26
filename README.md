@@ -1,4 +1,4 @@
-# Python Project 2: Machine Learning for Healthcare Data
+#  Machine Learning for Healthcare Data
 
 ## Project Overview
 This project demonstrates a basic machine learning workflow using a healthcare dataset. The goal is to build a classification model that can predict a specific outcome (e.g., Hospital Type) based on various features within the dataset. This showcases data preprocessing, model training, and evaluation using Python's scikit-learn library.
